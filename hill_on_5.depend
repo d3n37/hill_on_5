@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1636012664 source:d:\ccc\hill_on_5\main.cpp
+	<cstdio>
+	<cmath>
+	<conio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<windows.h>
+
